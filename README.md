@@ -7,4 +7,4 @@ Repositório criado como projeto desafio do curso Git/Github da DIO.
 
 [Sintaxe Básica notação Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Sintaxe Extendida do Markdown](https://www.markdownguide.org/extended-syntax/)
+[Sintaxe Extendida Markdown](https://www.markdownguide.org/extended-syntax/)
